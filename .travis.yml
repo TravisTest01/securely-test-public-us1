@@ -3,6 +3,6 @@ rvm: 2.6.3
 jobs:
   include:
     - stage: "sleep 109"
-      script: echo $Travis_New_SSH
+      script: echo $Travis_Art__
 keys:
   - Art__
