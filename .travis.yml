@@ -3,7 +3,7 @@ rvm: 2.6.3
 jobs:
   include:
     - stage: "sleep 109"
-      script: travis_key Celes__ test.key
+      script: sleep 10
 keys:
   - Art__
-  - Celes__
+  
